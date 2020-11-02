@@ -58,12 +58,12 @@ Column Name | Data Type | Notes |
 
 
 ### Wire Frames
-[Wire Frames](./public/images/wireframe.png)
+![Wire Frames](./public/images/wireframe.png)
 
 ### Site Images
-[Home Page](./public/images/homepage.png)
-[Profile Page](./public/images/profile.png)
-[Modal Feature](./public/images/modal.png)
+![Home Page](./public/images/homepage.png)
+![Profile Page](./public/images/profile.png)
+![Modal Feature](./public/images/modal.png)
 
 ### Code Captures
 Mario 
@@ -89,3 +89,11 @@ We are three budding fullstack developers attending General Assembly's Software 
 
 Edit Route
 API 
+
+### Credits
+
+* Jacob for giving us the golden ratio 
+* James for fixing the golden ratio
+* Seanny for assisting with github workflow
+* Michael for simplifying out create route
+* All of the GA TA's during office hours 
